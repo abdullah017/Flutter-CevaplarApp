@@ -1,6 +1,5 @@
 # cevaplarapp
-
-A new Flutter project.
+CevaplarAPP MOBİL UYGULAMA KODLARI
 
 ## Getting Started
 
